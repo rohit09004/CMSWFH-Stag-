@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Construction Management System Application Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="CMS App Test Cases(failed)">
+    <classes>
+      <class name="com.csm.qa.test.IDCPagetest">
+        <methods>
+          <include name="setup"/>
+          <include name="Validate_DuplicateData"/>
+        </methods>
+      </class> <!-- com.csm.qa.test.IDCPagetest -->
+    </classes>
+  </test> <!-- CMS App Test Cases(failed) -->
+</suite> <!-- Failed suite [Construction Management System Application Test Suite] -->
