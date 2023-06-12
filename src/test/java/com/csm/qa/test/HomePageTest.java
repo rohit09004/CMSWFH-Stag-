@@ -39,6 +39,7 @@ public class HomePageTest extends CSMBase {
 		VerifyHomePageTitle();
 		ValidateJobCodeKey();
 		homePage.clickOnCMSModuleMenu();
+		System.out.println("Test 2 passed");
 		Thread.sleep(1000);
 	}
 	
@@ -47,6 +48,7 @@ public class HomePageTest extends CSMBase {
 	{
 		clickOnCMSModule();
 		idcPage=homePage.clickOnIDC();
+		System.out.println("Test 3 passed ");
 	    Thread.sleep(1000);
 	    driver.quit();
 	}

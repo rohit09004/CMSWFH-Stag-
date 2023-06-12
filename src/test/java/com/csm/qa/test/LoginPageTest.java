@@ -43,6 +43,7 @@ public class LoginPageTest extends CSMBase{
 		Thread.sleep(1000);
 		String homePagetitle= driver.getTitle();
 		Assert.assertEquals(homePagetitle,"Home Page", "Invalid Credentials");
+		System.out.println("Test 1 passed");
 		driver.quit();
 	}
 }

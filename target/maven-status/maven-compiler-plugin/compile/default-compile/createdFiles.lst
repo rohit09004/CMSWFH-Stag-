@@ -1,5 +1,5 @@
+com\csm\qa\pages\LoginPage.class
 com\csm\qa\pages\HomePage.class
 com\csm\qa\pages\IDCPage.class
-com\csm\qa\util\TestUtil.class
-com\csm\qa\pages\LoginPage.class
 com\csm\qa\base\CSMBase.class
+com\csm\qa\util\TestUtil.class
