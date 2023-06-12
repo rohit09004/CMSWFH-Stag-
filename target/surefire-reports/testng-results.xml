@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-12T12:42:16 IST" name="Surefire suite" finished-at="2023-06-12T12:42:44 IST" duration-ms="27621">
+    <groups>
+    </groups>
+    <test started-at="2023-06-12T12:42:16 IST" name="Surefire test" finished-at="2023-06-12T12:42:44 IST" duration-ms="27621">
+      <class name="com.csm.qa.test.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.LoginPageTest@36f0f1be]" started-at="2023-06-12T12:42:37 IST" name="setup" finished-at="2023-06-12T12:42:39 IST" duration-ms="1728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginWithValidCredentials()[pri:1, instance:com.csm.qa.test.LoginPageTest@36f0f1be]" started-at="2023-06-12T12:42:39 IST" name="LoginWithValidCredentials" finished-at="2023-06-12T12:42:44 IST" duration-ms="4625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+      </class> <!-- com.csm.qa.test.LoginPageTest -->
+      <class name="com.csm.qa.test.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.HomePageTest@4d49af10]" started-at="2023-06-12T12:42:16 IST" name="setup" finished-at="2023-06-12T12:42:24 IST" duration-ms="8010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnCMSModule()[pri:2, instance:com.csm.qa.test.HomePageTest@4d49af10]" started-at="2023-06-12T12:42:24 IST" name="clickOnCMSModule" finished-at="2023-06-12T12:42:26 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCMSModule -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.HomePageTest@4d49af10]" started-at="2023-06-12T12:42:26 IST" name="setup" finished-at="2023-06-12T12:42:30 IST" duration-ms="3771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonIDC()[pri:3, instance:com.csm.qa.test.HomePageTest@4d49af10]" started-at="2023-06-12T12:42:30 IST" name="clickonIDC" finished-at="2023-06-12T12:42:37 IST" duration-ms="7293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonIDC -->
+      </class> <!-- com.csm.qa.test.HomePageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
