@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="25.385" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="24.872" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="17.0.4.1+1-LTS-2"/>
@@ -60,7 +60,7 @@
     <property name="sun.stdout.encoding" value="cp437"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="clickOnCMSModule" classname="com.csm.qa.test.HomePageTest" time="2.158"/>
-  <testcase name="clickonIDC" classname="com.csm.qa.test.HomePageTest" time="5.157"/>
-  <testcase name="LoginWithValidCredentials" classname="com.csm.qa.test.LoginPageTest" time="5.339"/>
+  <testcase name="clickOnCMSModule" classname="com.csm.qa.test.HomePageTest" time="2.15"/>
+  <testcase name="clickonIDC" classname="com.csm.qa.test.HomePageTest" time="5.464"/>
+  <testcase name="LoginWithValidCredentials" classname="com.csm.qa.test.LoginPageTest" time="4.425"/>
 </testsuite>
