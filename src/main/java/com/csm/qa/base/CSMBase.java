@@ -23,8 +23,8 @@ public class CSMBase {
 		try
 		{
 		prop = new Properties();
-		FileInputStream ip= new FileInputStream("D:\\CCSMAAutomation\\src\\main\\java\\com\\csm"+"/qa/config/config.properties");
-		//FileInputStream ip= new FileInputStream("D:\\Eclipse_rohit\\CMSWFH\\src\\main\\java\\com\\csm\\qa\\config\\config.properties");
+		//FileInputStream ip= new FileInputStream("D:\\CCSMAAutomation\\src\\main\\java\\com\\csm"+"/qa/config/config.properties");
+		FileInputStream ip= new FileInputStream("D:\\Eclipse_rohit\\CMSWFH\\src\\main\\java\\com\\csm\\qa\\config\\config.properties");
 		prop.load(ip);
 		
 	    }catch(FileNotFoundException e)
