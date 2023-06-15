@@ -2,38 +2,38 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-13T11:54:14 IST" name="CMS Test Suite" finished-at="2023-06-13T11:54:38 IST" duration-ms="24499">
+  <suite started-at="2023-06-15T15:07:46 IST" name="Default suite" finished-at="2023-06-15T15:08:17 IST" duration-ms="30630">
     <groups>
     </groups>
-    <test started-at="2023-06-13T11:54:14 IST" name="CMS App Test Cases" finished-at="2023-06-13T11:54:38 IST" duration-ms="24499">
+    <test started-at="2023-06-15T15:07:46 IST" name="Default test" finished-at="2023-06-15T15:08:17 IST" duration-ms="30630">
       <class name="com.csm.qa.test.LoginPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.LoginPageTest@223d2c72]" started-at="2023-06-13T11:54:14 IST" name="setup" finished-at="2023-06-13T11:54:17 IST" duration-ms="3047" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.LoginPageTest@2b662a77]" started-at="2023-06-15T15:07:46 IST" name="setup" finished-at="2023-06-15T15:07:50 IST" duration-ms="3790" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginWithValidCredentials()[pri:1, instance:com.csm.qa.test.LoginPageTest@223d2c72]" started-at="2023-06-13T11:54:17 IST" name="LoginWithValidCredentials" finished-at="2023-06-13T11:54:21 IST" duration-ms="4781" status="PASS">
+        <test-method signature="LoginWithValidCredentials()[pri:1, instance:com.csm.qa.test.LoginPageTest@2b662a77]" started-at="2023-06-15T15:07:50 IST" name="LoginWithValidCredentials" finished-at="2023-06-15T15:07:56 IST" duration-ms="6229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginWithValidCredentials -->
       </class> <!-- com.csm.qa.test.LoginPageTest -->
       <class name="com.csm.qa.test.HomePageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.HomePageTest@799f10e1]" started-at="2023-06-13T11:54:21 IST" name="setup" finished-at="2023-06-13T11:54:25 IST" duration-ms="3755" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.HomePageTest@2a4fb17b]" started-at="2023-06-15T15:07:56 IST" name="setup" finished-at="2023-06-15T15:08:02 IST" duration-ms="5422" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="clickOnCMSModule()[pri:2, instance:com.csm.qa.test.HomePageTest@799f10e1]" started-at="2023-06-13T11:54:25 IST" name="clickOnCMSModule" finished-at="2023-06-13T11:54:27 IST" duration-ms="2118" status="PASS">
+        <test-method signature="clickOnCMSModule()[pri:2, instance:com.csm.qa.test.HomePageTest@2a4fb17b]" started-at="2023-06-15T15:08:02 IST" name="clickOnCMSModule" finished-at="2023-06-15T15:08:04 IST" duration-ms="2123" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnCMSModule -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.HomePageTest@799f10e1]" started-at="2023-06-13T11:54:27 IST" name="setup" finished-at="2023-06-13T11:54:31 IST" duration-ms="3539" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.csm.qa.test.HomePageTest@2a4fb17b]" started-at="2023-06-15T15:08:04 IST" name="setup" finished-at="2023-06-15T15:08:09 IST" duration-ms="5371" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="clickonIDC()[pri:3, instance:com.csm.qa.test.HomePageTest@799f10e1]" started-at="2023-06-13T11:54:31 IST" name="clickonIDC" finished-at="2023-06-13T11:54:38 IST" duration-ms="7224" status="PASS">
+        <test-method signature="clickonIDC()[pri:3, instance:com.csm.qa.test.HomePageTest@2a4fb17b]" started-at="2023-06-15T15:08:09 IST" name="clickonIDC" finished-at="2023-06-15T15:08:17 IST" duration-ms="7651" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickonIDC -->
       </class> <!-- com.csm.qa.test.HomePageTest -->
-    </test> <!-- CMS App Test Cases -->
-  </suite> <!-- CMS Test Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
