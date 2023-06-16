@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.csm.qa.test.HomePageTest">
+      <class name="com.csm.qa.test.LoginPageTest">
         <methods>
-          <include name="clickonIDC"/>
           <include name="setup"/>
+          <include name="LoginWithValidCredentials"/>
         </methods>
-      </class> <!-- com.csm.qa.test.HomePageTest -->
+      </class> <!-- com.csm.qa.test.LoginPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
