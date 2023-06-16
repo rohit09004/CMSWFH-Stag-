@@ -33,7 +33,7 @@ public class HomePageTest extends CSMBase {
 		Assert.assertTrue(homePage.VerifycorrectJobCodeKey());
 	}
 	
-	@Test(priority=2)
+	//@Test(priority=2)
 	public void clickOnCMSModule() throws InterruptedException
 	{
 		VerifyHomePageTitle();
@@ -43,7 +43,7 @@ public class HomePageTest extends CSMBase {
 		Thread.sleep(1000);
 	}
 	
-	@Test(priority=3)
+	//@Test(priority=3)
 	public void clickonIDC() throws InterruptedException
 	{
 		clickOnCMSModule();

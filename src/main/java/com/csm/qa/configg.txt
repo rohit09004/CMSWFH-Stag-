@@ -1,5 +1,5 @@
-url = https://qacms.jgc.com/cms_pt
-username = Admin
-password = AdminQA1
+url = https://www.jconindia.com/
+username = m0007
+password = admin
 browser = chrome 
-homepageurl = https://qacms.jgc.com/cms_pt/Home?UserID=QWRtaW4%3D
+homepageurl = https://www.jconindia.com/Home?UserID=TTAwMDc%3D

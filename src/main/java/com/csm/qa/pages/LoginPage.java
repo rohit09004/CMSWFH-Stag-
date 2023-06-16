@@ -47,7 +47,7 @@ public class LoginPage extends CSMBase {
     	 UserID.sendKeys(uid);
     	 Password.sendKeys(pwd);
     	 login_Btn.click(); 
-    	 closePasswordPoup.click();
+    	// closePasswordPoup.click();
     	 return new HomePage();
     		
      }
