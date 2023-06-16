@@ -44,6 +44,7 @@ public class LoginPageTest extends CSMBase{
 		//String homePagetitle= driver.getTitle();
 		//Assert.assertEquals(homePagetitle,"Home Page", "Invalid Credentials");
 		System.out.println("Test 1 passed");
+		System.out.println("Test 1 passed for Automatic build triggered");
 		driver.quit();
 	}
 }
