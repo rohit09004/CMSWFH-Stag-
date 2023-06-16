@@ -46,6 +46,7 @@ public class LoginPageTest extends CSMBase{
 		System.out.println("Test 1 passed");
 		System.out.println("Test 1 passed for Automatic build triggered");
 		System.out.println("Test 2 passed for Automatic build triggered");
+		System.out.println("Test 3 passed for Automatic build triggered");
 		driver.quit();
 	}
 }
